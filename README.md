@@ -37,7 +37,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 
 ### 🟨 Stage 2
 - Name/Alias: Emma
-- Github account:
+- Github account: https://github.com/emmazig
 - Published webpage for stage 2:
 
 **
