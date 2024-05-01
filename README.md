@@ -38,9 +38,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟨 Stage 2
 - Name/Alias: Emma
 - Github account: https://github.com/emmazig
-- Published webpage for stage 2:
-
-**
+- Published webpage for stage 2: https://emmazig.github.io/exquisite-corpse-stage-2-A-Second-Scoop/
+  
+*I wanted to keep with the idea that things can grow over time, fall,  and be re-built. Time is an endless loop but we can choose what we do with it so I added three buttons the user can choose from that add a scoop to the tower. I also changed the space between the scoops of ice cream so it would take less scoops to reach the top of the canvas. A forth button resets the background and means the user can start stacking the scoops again. I wanted to add a classic ‘game over’ sequence to the sketch, so when the scoops reach the top of the canvas, three blocks of colour move down the screen along with text saying “start again”.
+I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.
+*
 
 ### 🟩 Stage 3
 - Name/Alias:
