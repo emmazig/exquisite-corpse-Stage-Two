@@ -36,12 +36,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 *This sketch represents an unconventional passing of time through a random flavoured scoop of ice cream being added onto an ice cream cone each second. The title is a play on words because the phrase would mean asking for a second scoop of ice cream on a cone when this is adding a scoop of ice cream to the cone every second. I have imposed a limit so that when the ice cream tower approaches the top of the canvas, it will start over. I wanted to show how more of something can be accumulated through the passing of time until it reaches a limit and then must be rebuilt from the bottom again. The reason for putting this in a repeating cycle is because of how I view time.  Time is an endless loop while everything else is finite; things will rise, then fall and have to rebuild, but time will keep going. You can only have so much of something before its goes or you do, either one, but then the cycle will start again with someone or something new. The random scoop colours represent the unpredictability of circumstances through time because you never know what's going to happen in the next second, minute or year. I have used a dark grey background to allow the ice cream scoops to pop but also not look too harsh as they would against a pure black background.*
 
 ### 🟨 Stage 2
-- Name/Alias: Emma
-- Github account: https://github.com/emmazig
-- Published webpage for stage 2: https://emmazig.github.io/exquisite-corpse-stage-2-A-Second-Scoop/
-  
-*I wanted to keep with the idea that things can grow over time, fall,  and be re-built. Time is an endless loop but we can choose what we do with it so I added three buttons the user can choose from that add a scoop to the tower. I also changed the space between the scoops of ice cream so it would take less scoops to reach the top of the canvas. A forth button resets the background and means the user can start stacking the scoops again. I wanted to add a classic ‘game over’ sequence to the sketch, so when the scoops reach the top of the canvas, three blocks of colour move down the screen along with text saying “start again”.
-I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.*
+- Name/Alias:
+- Github account:
+- Published webpage for stage 2:
+
+*... comments to be added here*
 
 ### 🟩 Stage 3
 - Name/Alias:

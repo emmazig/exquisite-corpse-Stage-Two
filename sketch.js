@@ -120,7 +120,7 @@ function hideButtons(){  // hides buttons
 
 }
 
-function resetIcecream (){     // resets icecream after gameover and when button is pressed
+function resetIcecream (){     // resets icecream 
   background(50);
     icecream(width/2, iceCreamY, 30, color(255));
     scoopY = iceCreamY - 5;
